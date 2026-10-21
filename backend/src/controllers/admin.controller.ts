@@ -6,6 +6,8 @@ import Admin from '../models/admin.model'
 import jwtToken from '../utilities/authorization.utilities'
 import generator from 'generate-password'
 
+=====Psswe
+
 
 const loginAdmin = async (req: Request, res: Response) => {
     try {
